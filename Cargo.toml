@@ -7,7 +7,7 @@ description = "prime functions"
 homepage = "https://lucalewin.dev/projects/primetime"
 documentation = "https://lucalewin.dev/docs/primetime"
 repository = "https://github.com/lucalewin/primetime"
-license = "MIT, Apache 2.0"
+license = "MIT OR Apache-2.0"
 
 # See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
 
